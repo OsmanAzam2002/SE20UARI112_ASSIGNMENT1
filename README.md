@@ -1,1 +1,4 @@
 # SE20UARI112_ASSIGNMENT1
+
+Name - Osman Azam
+Roll - SE20UARI112
